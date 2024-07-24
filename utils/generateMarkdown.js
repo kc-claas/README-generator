@@ -60,7 +60,7 @@ ${data.contribution}
 ${data.test}
 
 ## Questions
-[${data.userName}](github.com/${data.userName})
+Github: [${data.userName}](github.com/${data.userName})
 
 For additional questions, contact ${data.email}
 `;
