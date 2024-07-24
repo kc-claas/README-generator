@@ -10,31 +10,31 @@ const questions = [
         name: `title`,
     },
     {
-        message: `Please enter your description`,
+        message: `Please enter your description:`,
         name: `description`,
     },
     {
-        message: `Please enter your installation instructions`,
+        message: `Please enter your installation instructions:`,
         name: `installation`,
     },
     {
-        message: `Please enter your usage information`,
+        message: `Please enter your usage information:`,
         name: `usage`,
     },
     {
-        message: `Please enter your contribution guidelines`,
+        message: `Please enter your contribution guidelines:`,
         name: `contribution`,
     },
     {
-        message: `Please enter your test instructions`,
+        message: `Please enter your test instructions:`,
         name: `test`,
     },
     {
-        message: `Please enter your github username`,
+        message: `Please enter your github username:`,
         name: `userName`,
     },
     {
-        message: `Please enter your email address`,
+        message: `Please enter your email address:`,
         name: `email`,
     },
     {
