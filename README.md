@@ -1,5 +1,5 @@
 # README Generator
-![Static Badge](https://img.shields.io/badge/License-MIT-blue)
+[![Static Badge](https://img.shields.io/badge/License-MIT-blue)](https://choosealicense.com/licenses/mit/)
 ## Description
 This application allows users to create markdown README by entering its content into the command line. It is intended to provide a shortcut to creating a professional README without having to create markdown syntax and structure yourself.
 

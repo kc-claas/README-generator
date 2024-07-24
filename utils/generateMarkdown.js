@@ -12,8 +12,8 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   let link
-  if (license === 'MIT') {link = `[MIT](https://choosealicense.com/licenses/mit/)`}
-  else if (license === 'GNU GPLv3') {link = `[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)`}
+  if (license === 'MIT') {link = `(https://choosealicense.com/licenses/mit/)`}
+  else if (license === 'GNU GPLv3') {link = `(https://choosealicense.com/licenses/gpl-3.0/)`}
   else {link = ''}
   return link
 
@@ -24,7 +24,7 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   let section
 if (license !== `unlicensed`) {
-section = `This application is covered under the ${renderLicenseLink(license)} license`}
+section = `This application is covered under the [${license}]${renderLicenseLink(license)} license`}
 else {section = ''}
 return section
 }
@@ -32,7 +32,7 @@ return section
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
-${renderLicenseBadge(data.license)}
+[${renderLicenseBadge(data.license)}]${renderLicenseLink(data.license)}
 ## Description
 ${data.description}
 
