@@ -41,7 +41,7 @@ const questions = [
         message: `Please choose your license`,
         name: `license`,
         type: `list`,
-        choices: [`MIT`, `GNU GPLv3`, `unlicensed`]
+        choices: [`MIT`, `GNU GPLv3`, `Apache 2.0`,`unlicensed`]
     },
 
 ];
