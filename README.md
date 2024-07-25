@@ -8,6 +8,7 @@ This application allows users to create markdown README by entering its content 
 - [Usage](#usage)
 - [License](#license)
 - [Contribution](#contribution)
+- [Test](#test)
 - [Questions](#questions)
 
 ## Installation
@@ -23,6 +24,9 @@ This application is covered under the [MIT](https://choosealicense.com/licenses/
 
 ## Contribution
 If you would like to contribute, feel free to create your own fork of the repository to work on, or contact me as listed below about becoming a contributor on the original repo.
+
+## Test
+If you would like to test, enter any sample text into the prompts and complete the process to see how they'll look in the output. The /output directory already contains a README.md built in such a fashion, though it will be overwritten with your generated README.md upon executing this application.
 
 ## Questions
 Github: [kc-claas](https://github.com/kc-claas)
