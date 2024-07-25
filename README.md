@@ -20,7 +20,7 @@ To use, open the application directory in your terminal, and enter 'node index.j
 A video demonstation can be found [here](https://drive.google.com/file/d/1fgUILvxERCnN773_eP8ytQrDBr5sVM-j/view).
 
 ## License
-This application is covered under the [MIT](https://choosealicense.com/licenses/mit/) license.
+This application is covered under the [MIT](https://opensource.org/license/mit) license.
 
 ## Contribution
 If you would like to contribute, feel free to create your own fork of the repository to work on, or contact me as listed below about becoming a contributor on the original repo.

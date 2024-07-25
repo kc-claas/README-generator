@@ -25,13 +25,13 @@ function renderLicenseLink(license) {
   let link
   switch(license) {
     case 'MIT':
-      link = `(https://choosealicense.com/licenses/mit/)`
+      link = `(https://opensource.org/license/mit)`
     break
     case 'GNU GPLv3':
-      link = `(https://choosealicense.com/licenses/gpl-3.0/)`
+      link = `(https://www.gnu.org/licenses/gpl-3.0.en.html)`
     break
     case 'Apache 2.0':
-      link = `(https://choosealicense.com/licenses/apache-2.0/)`
+      link = `(https://www.apache.org/licenses/LICENSE-2.0)`
     break
     case 'unlicensed':
       link = ''
