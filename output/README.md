@@ -1,7 +1,7 @@
 # Sample Project
-[![Static Badge](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/license/mit)
+[![Static Badge](https://img.shields.io/badge/License-MIT-blue)](./LICENSE)
 ## Description
-This is a sample of the description
+This is a sample description
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,19 +12,19 @@ This is a sample of the description
 - [Questions](#questions)
 
 ## Installation
-This is a sample of the installation instructions
+These are sample installation instructions
 
 ## Usage
-This is a sample of the usage information
+This is the sample usage information
 
 ## License
-This application is covered under the [MIT](https://opensource.org/license/mit) license
+This application is covered under the [MIT](./LICENSE) license
 
 ## Contribution
-This is a sample of the contribution guidelines
+These are sample contribution guidelines
 
 ## Test
-This is a sample of the testing instructions
+These are sample testing instructions
 
 ## Questions
 Github: [sample-username](https://github.com/sample-username)
